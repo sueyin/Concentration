@@ -60,6 +60,7 @@ class ViewController: UIViewController {
     lazy var currentEmojiChoices = emojiChoices
     
     //,"👾","👺","🧠","👣"
+    //
     //[Int:String]
     var emoji = Dictionary<Int,String>()
     
